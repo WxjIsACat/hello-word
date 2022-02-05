@@ -11,4 +11,5 @@ hello,Git I am WXJ
 hello,Git I am WXJ
 i am master brnach
 i am hot-fix brnach
-哈哈，我是github 
+哈哈，我是github
+你好，我是韦贤精
